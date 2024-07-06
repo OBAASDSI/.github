@@ -4,9 +4,9 @@ Bienvenue sur le dépôt officiel GitHub d'**OBASS Consulting** !
 
 **OBASS Consulting** est un cabinet de conseil de premier plan dédié à fournir des solutions et des services de pointe aux entreprises de divers secteurs. Avec une compréhension approfondie des tendances du marché et un engagement envers l'excellence, nous aidons les organisations à surmonter des défis complexes et à atteindre leurs objectifs stratégiques.
 
-### À propos de nous
+### À propos de nous 
 
-Chez **OBASS Consulting**, notre mission est d'autonomiser les entreprises en offrant des services de conseil innovants et personnalisés. Notre équipe de professionnels chevronnés apporte une richesse d'expérience dans des domaines tels que :
+Chez **OBASS Consulting**, notre mission est d'autonomiser les entreprises en offrant des services de conseil innovants et personnalisés. Notre équipe de professionnels chevronnés apporte une richesse d'expérience dans des domaines tels que:
 
 - **Stratégie d'entreprise :** Élaboration de stratégies complètes qui stimulent la croissance et renforcent l'avantage concurrentiel.
 - **Solutions technologiques :** Mise en œuvre de solutions technologiques avancées pour rationaliser les opérations et augmenter l'efficacité.
